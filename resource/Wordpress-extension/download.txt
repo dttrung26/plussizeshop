@@ -1,0 +1,3 @@
+1. MStore API - https://wordpress.org/plugins/mstore-api/
+2. Regenerate Thumbnails - https://wordpress.org/plugins/regenerate-thumbnails/
+3. WP REST Cache - https://wordpress.org/plugins/wp-rest-cache/

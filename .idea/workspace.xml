@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36dc6672-358f-443d-bf7f-f3a492dfca5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1mmW5j7VXNdQKJpn1Wj0A97pwym" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../InspireUI/FluxNews-develop" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36dc6672-358f-443d-bf7f-f3a492dfca5c" name="Default Changelist" comment="" />
+      <created>1610099064967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610099064967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1190" height="880" key="AVDManager" timestamp="1610105013935">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1190" height="880" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1610105013935" />
+    <state x="100" y="100" width="1243" height="880" key="DiffContextDialog" timestamp="1610106279420">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1243" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1610106279420" />
+    <state x="575" y="295" key="FileChooserDialogImpl" timestamp="1610105574449">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="575" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1610105574449" />
+    <state width="1383" height="285" key="GridCell.Tab.0.bottom" timestamp="1610110920355">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1383" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1610110920355" />
+    <state width="1383" height="285" key="GridCell.Tab.0.center" timestamp="1610110920355">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1383" height="285" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1610110920355" />
+    <state width="1383" height="285" key="GridCell.Tab.0.left" timestamp="1610110920355">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1383" height="285" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1610110920355" />
+    <state width="1383" height="285" key="GridCell.Tab.0.right" timestamp="1610110920355">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1383" height="285" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1610110920355" />
+    <state x="296" y="185" key="SettingsEditor" timestamp="1610103478766">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="296" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1610103478766" />
+    <state x="424" y="147" width="1243" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1610106279420">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="147" width="1243" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1610106279420" />
+    <state x="100" y="100" width="1743" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610107504834">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1743" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1610107504834" />
+    <state x="455" y="258" width="861" height="564" key="find.popup" timestamp="1610105699354">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="455" y="258" width="861" height="564" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1610105699354" />
+    <state x="358" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1610105554292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="358" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1610105554292" />
+  </component>
+</project>

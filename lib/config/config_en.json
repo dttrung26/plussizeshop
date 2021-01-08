@@ -1,0 +1,115 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true,
+      "image": "https://plussizeclothingshop.com/wp-content/uploads/2020/02/512-no-bg-300x300.png"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "pos": 100,
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "categoryLayout": "column",
+      "pos": 200,
+      "categories": [
+        "251",
+        "413",
+        "724",
+        "1622",
+        "459",
+        "685",
+        "789",
+        "1262",
+        "15"
+      ],
+      "layout": "category",
+      "icon": "assets/icons/tabs/icon-category.png",
+      "showChat": false
+    },
+    {
+      "pos": 300,
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "showChat": false
+    },
+    {
+      "icon": "assets/icons/tabs/icon-cart2.png",
+      "pos": 400,
+      "layout": "cart",
+      "showChat": false,
+      "data": {
+        "id": 1,
+        "container": {
+          "height": 0.5,
+          "image": {
+            "height": 0.5,
+            "width": 1.0,
+            "url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png",
+            "align": {
+              "x": 1.0,
+              "y": 1.0
+            }
+          },
+          "header": {
+            "align": {
+              "x": -1.0,
+              "y": 0.8
+            },
+            "padding": {
+              "horizontal": 20.0,
+              "vertical": 10.0
+            },
+            "color": "#FFFFFF",
+            "background": "#000000",
+            "text": "About US"
+          }
+        },
+        "subHeader": "This is sub heading",
+        "description": "This is description"
+      },
+      "pageId": 18,
+      "pageTitle": "Post Screen"
+    },
+    {
+      "icon": "assets/icons/tabs/icon-user.png",
+      "pos": 500,
+      "layout": "profile"
+    }
+  ],
+  "Drawer": {
+    "logo": "https://plussizeclothingshop.com/wp-content/uploads/2020/02/512-no-bg-300x300.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": false
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "VerticalLayout": {
+    "layout": "menu"
+  }
+}
