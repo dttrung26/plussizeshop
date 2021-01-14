@@ -6,6 +6,44 @@
       "showSearch": true,
       "showLogo": true,
       "image": "https://plussizeclothingshop.com/wp-content/uploads/2020/02/512-no-bg-300x300.png"
+    },
+
+    {
+      "name": "Normal twoColumn layout",
+      "layout": "twoColumn",
+      "limit": 20,
+      "isRandomFetch": false
+    },
+    {
+      "name": "Normal threeColumn layout",
+      "layout": "threeColumn",
+      "limit": 20,
+      "isRandomFetch": false
+    },
+    {
+      "name": "Normal fourColumn  layout",
+      "layout": "fourColumn",
+      "limit": 20,
+      "isRandomFetch": false
+    },
+
+    {
+      "name": "Normal threeColumn layout",
+      "layout": "threeColumn",
+      "limit": 20,
+      "isRandomFetch": false
+    },
+    {
+      "name": "Normal fourColumn  layout",
+      "layout": "fourColumn",
+      "limit": 20,
+      "isRandomFetch": false
+    },
+    {
+      "name": "Normal card layout",
+      "layout": "card",
+      "limit": 20,
+      "isRandomFetch": false
     }
   ],
   "Setting": {

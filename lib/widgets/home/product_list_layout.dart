@@ -30,11 +30,19 @@ class _ProductListLayoutState extends State<ProductListLayout> {
 
   final _memoizer = AsyncMemoizer<List<Product>>();
 
+  bool isRandomProductsFetched = false;
+
   @override
   void initState() {
     /// only create the future once
     _getProductLayout = getProductLayout(context);
+    isRandomProductsFetched = widget.config['isRandomFetch'] ?? false;
     super.initState();
+  }
+
+  List<Product> sortListByRandomOrder(List<Product> list) {
+    list.shuffle();
+    return list;
   }
 
   double _buildProductWidth(screenWidth) {
@@ -253,6 +261,9 @@ class _ProductListLayoutState extends State<ProductListLayout> {
                   } else {
                     int _durationInMilliSeconds =
                         _getCountDownDuration(snapshot.data, isSaleOffLayout);
+                    if (isRandomProductsFetched) {
+                      sortListByRandomOrder(snapshot.data);
+                    }
 
                     return Column(
                       crossAxisAlignment: CrossAxisAlignment.stretch,
