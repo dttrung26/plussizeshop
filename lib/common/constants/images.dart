@@ -1,7 +1,8 @@
 /// config splash screen
 
 /// This file is use for https://rive.app/ version 1
-const kSplashScreen = "assets/images/splashscreen.flr";
+/// const kSplashScreen = "assets/images/splashscreen.flr";
+const kSplashScreen = "assets/images/splashscreen.png";
 
 /// This file is use for rive.app/ version 2
 // const kSplashScreen = "assets/images/splashscreen.riv";
@@ -11,7 +12,7 @@ const kAnimationName = 'fluxstore';
 
 /// Splash screen type. Can be either "flare", "animated", "zoomIn", "static".
 /// Reference: https://docs.inspireui.com/fluxstore/customization/#2-logo-splash-screen
-const kSplashScreenType = "flare";
+const kSplashScreenType = "static";
 
 const kProductListLayout = [
   {"layout": "list", "image": "assets/icons/tabs/icon-list.png"},

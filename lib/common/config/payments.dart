@@ -5,9 +5,9 @@
 // TODO: 4-Update Multi Payments Setting
 /// config for payment features
 const kPaymentConfig = {
-  "DefaultCountryISOCode": "VN",
+  "DefaultCountryISOCode": "US",
 
-  "DefaultStateISOCode": "SG",
+  "DefaultStateISOCode": "AL",
 
   /// Enable the Shipping option from Checkout, support for the Digital Download
   "EnableShipping": true,
@@ -64,11 +64,12 @@ const kStripeConfig = {
   "returnUrl": "fluxstore://inspireui.com"
 };
 
+///https://developer.paypal.com/
 const PaypalConfig = {
   "clientId":
-      "ASlpjFreiGp3gggRKo6YzXMyGM6-NwndBAQ707k6z3-WkSSMTPDfEFmNmky6dBX00lik8wKdToWiJj5w",
+      "AUU1VL6OpLRmhbuf0-CGzJWrGp4GEJTlTLN30EKoJZMJiVL_tQly_Fr6dpkxiMwQHZJH0_KRxerhF_uW",
   "secret":
-      "ECbFREri7NFj64FI_9WzS6A0Az2DqNLrVokBo0ZBu4enHZKMKOvX45v9Y1NBPKFr6QJv2KaSp5vk5A1G",
+      "EDw-KtiJULotqPpdoJMxOkMBYSv8D-a0F53aZs0yLMBRET73_2Q9fCMVm4C2yW6oyIzsVHHntxXUd5Yt",
   "production": false,
   "paymentMethodId": "paypal",
   "enabled": true

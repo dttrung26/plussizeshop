@@ -7,7 +7,8 @@
 /// Format: "<attribute-slug>": "<layout type>"
 /// Layout type can be: "color", "box", "option" or "image".
 const ProductVariantLayout = {
-  "color": "color",
+  ///"color": "color",
+  "color": "box",
   "size": "box",
   "height": "option",
   "color-image": "image",
@@ -24,7 +25,7 @@ const kProductDetail = {
   "showBrand": true,
   "showThumbnailAtLeast": 1,
   "layout": "simpleType",
-  "enableReview": false,
+  "enableReview": true,
   "attributeImagesSize": 50.0,
   "showSku": true,
   "showStockQuantity": true,

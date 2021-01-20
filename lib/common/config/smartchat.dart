@@ -2,7 +2,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // TODO: 4-Update SmartChat Features
 const kConfigChat = {
-  "EnableSmartChat": true,
+  "EnableSmartChat": false, //true,
 };
 
 /// config for the chat app
