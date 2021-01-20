@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>412823237422-pf5dr3f75n6r201u24ocioin54u3cseq.apps.googleusercontent.com</string>
+	<string>222990237978-op50nmoub43k25acfs947alc0sfs8n8f.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.412823237422-pf5dr3f75n6r201u24ocioin54u3cseq</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>412823237422-npg3ib1dclmpi3tj4lhbremuhr1kcvh5.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.222990237978-op50nmoub43k25acfs947alc0sfs8n8f</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA2BWeKRw-D7zHLnvVVoi6ahOqyucoa9s0</string>
+	<string>AIzaSyAt5Q9pmlGbNfLa4Ref42eAcn-tHwo52B4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>412823237422</string>
+	<string>222990237978</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.inspireui.mstore.flutter</string>
+	<string>com.big.size.clothing.shop</string>
 	<key>PROJECT_ID</key>
-	<string>fluxstore-inspireui</string>
+	<string>big-size-clothing-shop</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fluxstore-inspireui.appspot.com</string>
+	<string>big-size-clothing-shop.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:412823237422:ios:8947f503f8cb2000fb40bf</string>
-	<key>DATABASE_URL</key>
-	<string>https://fluxstore-inspireui.firebaseio.com</string>
+	<string>1:222990237978:ios:9aa23be0d3f65da88e6ca3</string>
 </dict>
 </plist>

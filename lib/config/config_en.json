@@ -1,153 +1,165 @@
 {
-  "HorizonLayout": [
-    {
-      "layout": "logo",
-      "showMenu": true,
-      "showSearch": true,
-      "showLogo": true,
-      "image": "https://plussizeclothingshop.com/wp-content/uploads/2020/02/512-no-bg-300x300.png"
-    },
-
-    {
-      "name": "Normal twoColumn layout",
-      "layout": "twoColumn",
-      "limit": 20,
-      "isRandomFetch": false
-    },
-    {
-      "name": "Normal threeColumn layout",
-      "layout": "threeColumn",
-      "limit": 20,
-      "isRandomFetch": false
-    },
-    {
-      "name": "Normal fourColumn  layout",
-      "layout": "fourColumn",
-      "limit": 20,
-      "isRandomFetch": false
-    },
-
-    {
-      "name": "Normal threeColumn layout",
-      "layout": "threeColumn",
-      "limit": 20,
-      "isRandomFetch": false
-    },
-    {
-      "name": "Normal fourColumn  layout",
-      "layout": "fourColumn",
-      "limit": 20,
-      "isRandomFetch": false
-    },
-    {
-      "name": "Normal card layout",
-      "layout": "card",
-      "limit": 20,
-      "isRandomFetch": false
-    }
-  ],
-  "Setting": {
-    "MainColor": "#3FC1BE",
-    "ProductListLayout": "list",
-    "StickyHeader": true,
-    "ProductDetail": "simpleType"
+  "HorizonLayout":[
+  {
+  "layout":"logo",
+  "showLogo":true,
+  "showSearch":true,
+  "showMenu":true
   },
-  "TabBar": [
-    {
-      "pos": 100,
-      "layout": "home",
-      "icon": "assets/icons/tabs/icon-home.png"
-    },
-    {
-      "categoryLayout": "column",
-      "pos": 200,
-      "categories": [
-        "251",
-        "413",
-        "724",
-        "1622",
-        "459",
-        "685",
-        "789",
-        "1262",
-        "15"
-      ],
-      "layout": "category",
-      "icon": "assets/icons/tabs/icon-category.png",
-      "showChat": false
-    },
-    {
-      "pos": 300,
-      "layout": "search",
-      "icon": "assets/icons/tabs/icon-search.png",
-      "showChat": false
-    },
-    {
-      "icon": "assets/icons/tabs/icon-cart2.png",
-      "pos": 400,
-      "layout": "cart",
-      "showChat": false,
-      "data": {
-        "id": 1,
-        "container": {
-          "height": 0.5,
-          "image": {
-            "height": 0.5,
-            "width": 1.0,
-            "url": "https://spic.one/wp-content/uploads/2018/08/e052b0077cff56f03b0c.png",
-            "align": {
-              "x": 1.0,
-              "y": 1.0
-            }
-          },
-          "header": {
-            "align": {
-              "x": -1.0,
-              "y": 0.8
-            },
-            "padding": {
-              "horizontal": 20.0,
-              "vertical": 10.0
-            },
-            "color": "#FFFFFF",
-            "background": "#000000",
-            "text": "About US"
-          }
-        },
-        "subHeader": "This is sub heading",
-        "description": "This is description"
-      },
-      "pageId": 18,
-      "pageTitle": "Post Screen"
-    },
-    {
-      "icon": "assets/icons/tabs/icon-user.png",
-      "pos": 500,
-      "layout": "profile"
-    }
-  ],
-  "Drawer": {
-    "logo": "https://plussizeclothingshop.com/wp-content/uploads/2020/02/512-no-bg-300x300.png",
-    "items": [
-      {
-        "type": "home",
-        "show": true
-      },
-      {
-        "type": "blog",
-        "show": false
-      },
-      {
-        "show": true,
-        "type": "login"
-      },
-      {
-        "type": "category",
-        "show": true
-      }
-    ]
+  {
+  "name":"Recent View",
+  "isSnapping":false,
+  "layout":"recentView"
   },
-  "VerticalLayout": {
-    "layout": "menu"
+  {
+  "category":251,
+  "name":"Blouses & Shirts",
+  "layout":"twoColumn",
+  "isSnapping":false,
+  "limit": 20,
+  "isRandomFetch": true 
+  },
+  {
+  "category":413,
+  "name":"Evening Dresses",
+  "layout":"twoColumn",
+  "isSnapping":false,
+  "limit": 20,
+  "isRandomFetch": true 
+  },
+  {
+  "name":"Jumpsuits",
+  "layout":"twoColumn",
+  "isSnapping":false,
+  "category":724,
+  "limit": 20,
+  "isRandomFetch": true 
+  },
+  {
+  "name":"Mother of the Bride Dresses",
+  "layout":"twoColumn",
+  "isSnapping":false,
+  "category":1622,
+  "limit": 20,
+  "isRandomFetch": true 
+  },
+  {
+  "name":"Plus Size Dresses",
+  "layout":"twoColumn",
+  "isSnapping":false,
+  "category":15,
+  "limit": 20,
+  "isRandomFetch": true 
+  },
+  {
+  "name":"Prom Dresses",
+  "layout":"twoColumn",
+  "isSnapping":false,
+  "category":459,
+  "limit": 20,
+  "isRandomFetch": true 
+  },
+  {
+  "name":"Rompers",
+  "layout":"twoColumn",
+  "isSnapping":false,
+  "category":685,
+  "limit": 20,
+  "isRandomFetch": true 
+  },
+  {
+  "name":"Skirts",
+  "layout":"twoColumn",
+  "isSnapping":false,
+  "category":789,
+  "limit": 20,
+  "isRandomFetch": true 
+  },
+  {
+  "name":"Wedding Dresses",
+  "layout":"twoColumn",
+  "isSnapping":false,
+  "category":1262,
+  "limit": 20,
+  "isRandomFetch": true 
   }
-}
+  ],
+  "Setting":{
+  "MainColor":"#3FC1BE",
+  "ProductListLayout":"list",
+  "StickyHeader":true,
+  "ProductDetail":"simpleType"
+  },
+  "TabBar":[
+  {
+  "layout":"home",
+  "pos":100,
+  "icon":"assets/icons/tabs/icon-home.png"
+  },
+  {
+  "categoryLayout":"column",
+  "icon":"assets/icons/tabs/icon-category.png",
+  "layout":"category",
+  "pos":200,
+  "categories":["251",
+  "413",
+  "724",
+  "1622",
+  "15",
+  "459",
+  "685",
+  "789",
+  "1262"]
+  },
+  {
+  "icon":"assets/icons/tabs/icon-search.png",
+  "layout":"search",
+  "pos":300
+  },
+  {
+  "layout":"cart",
+  "icon":"assets/icons/tabs/icon-cart2.png",
+  "pos":400
+  },
+  {
+  "layout":"profile",
+  "pos":500,
+  "icon":"assets/icons/tabs/icon-user.png",
+  "settings":["products",
+  "chat",
+  "wishlist",
+  "notifications",
+  "language",
+  "currencies",
+  "darkTheme",
+  "order",
+  "rating",
+  "privacy",
+  "about"]
+  }
+  ],
+  "Drawer":{
+  "logo":"assets/images/logo.png",
+  "items":[
+  {
+  "show":true,
+  "type":"home"
+  },
+  {
+  "type":"blog",
+  "show":false
+  },
+  {
+  "type":"login",
+  "show":true
+  },
+  {
+  "type":"category",
+  "show":true
+  }
+  ]
+  },
+  "VerticalLayout":{
+  "key":"d03engvcjj",
+  "name":"",
+  "layout":"list"}}
